@@ -1,4 +1,4 @@
-# Exercise-01b-Prompt-and-Response
+# Brooklynn Zabel Exercise-01b-Prompt-and-Response
 Exercise for MSCH-C220, 26 August 2021
 
 A demonstration of this exercise is available at [https://youtu.be/O1lcQZpKMRM](https://youtu.be/O1lcQZpKMRM).
